@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "scripts": {
+        "build": "tsdown"
+    },
+    "devDependencies": {
+        "tsdown": "~0.12.3",
+        "typescript": "^5.8.3"
+    }
+}
